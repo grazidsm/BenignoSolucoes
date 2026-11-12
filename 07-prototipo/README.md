@@ -6,7 +6,7 @@ Protótipos de telas no Figma, fluxos de interface e evidências de revisão e v
 
 ## Links disponíveis neste diretório
 
-- [Figma - Prototipo] (https://www.figma.com/proto/Sd4x819VQDuhsADRpKKTUc/Benigno-%E2%80%93-Marco-04-%E2%80%93-Telas?node-id=19-2&t=SAazxzI7q50LFS4n-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A2)
+- [Figma - Protótipo](https://www.figma.com/proto/Sd4x819VQDuhsADRpKKTUc/Benigno-%E2%80%93-Marco-04-%E2%80%93-Telas?node-id=19-2&t=SAazxzI7q50LFS4n-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A2)
 
 ## Referências e andamento
 
