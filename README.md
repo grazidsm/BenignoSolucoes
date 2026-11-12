@@ -13,7 +13,6 @@ A **Benigno Soluções** é a empresa simulada da equipe. O projeto atende ao ce
 - **[Quadro do projeto (GitHub Projects / Kanban)](https://github.com/users/grazidsm/projects/1/views/1)** — tarefas, responsáveis e andamento.
 - **[Issues / atividades](https://github.com/grazidsm/BenignoSolucoes/issues)** — registro de execução e pendências.
 
-> **Importante:** este repositório foi reorganizado com os documentos que já estavam no GitHub. Os demais arquivos existentes nas pastas do Drive **não foram automaticamente importados**. Os índices abaixo indicam a documentação esperada, mas não significam que cada item já esteja versionado aqui.
 
 ## Estrutura documental
 
@@ -60,5 +59,3 @@ As datas abaixo correspondem aos **períodos de registros observados nas issues*
 4. **Gerenciamento:** rastreabilidade, custos, riscos, mudanças e verificação.
 5. **Prototipação contínua:** telas e validação com o cliente.
 6. **Entrega e manutenção:** implantação conforme escopo e plano aprovados.
-
-O levantamento documentado identifica **28 requisitos** (20 funcionais e 8 não funcionais); essa contagem deve ser conferida contra a versão mais recente da ERS.
