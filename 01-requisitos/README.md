@@ -13,5 +13,5 @@ Sínteses da elicitação, relação de requisitos, priorização MoSCoW, modela
 
 - [Drive do projeto](https://drive.google.com/drive/folders/1FnTqOBS8O8YYcpYpFnBdATUqNcls-RNi)
 - [Quadro Kanban](https://github.com/users/grazidsm/projects/1/views/1)
-- [README principal](../README.md)
+- [README principal](../README.md) 
 
