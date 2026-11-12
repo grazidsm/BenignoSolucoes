@@ -14,4 +14,3 @@ Estimativas, planejamento, controle de custos e matriz de riscos do projeto.
 - [Quadro Kanban](https://github.com/users/grazidsm/projects/1/views/1)
 - [README principal](../README.md)
 
-> Este índice é uma referência de organização. Os conteúdos das pastas do Drive não foram importados automaticamente; confira a versão mais recente e a permissão de acesso antes da entrega.

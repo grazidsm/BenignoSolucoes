@@ -8,11 +8,10 @@ A **Benigno Soluções** é a empresa simulada da equipe. O projeto atende ao ce
 
 ## Acesso rápido
 
-- **[Arquivos do projeto no Google Drive](https://drive.google.com/drive/folders/1FnTqOBS8O8YYcpYpFnBdATUqNcls-RNi)** — pasta compartilhada informada pela equipe; a permissão de acesso público deve ser verificada no próprio Drive.
+- **[Arquivos do projeto no Google Drive](https://drive.google.com/drive/folders/1FnTqOBS8O8YYcpYpFnBdATUqNcls-RNi)** — documentos do projeto.
 - **[Repositório no GitHub](https://github.com/grazidsm/BenignoSolucoes)** — versões dos artefatos aqui publicadas.
 - **[Quadro do projeto (GitHub Projects / Kanban)](https://github.com/users/grazidsm/projects/1/views/1)** — tarefas, responsáveis e andamento.
 - **[Issues / atividades](https://github.com/grazidsm/BenignoSolucoes/issues)** — registro de execução e pendências.
-
 
 ## Estrutura documental
 
@@ -31,16 +30,14 @@ A nomenclatura acompanha as oito áreas da pasta principal do Drive. Os nomes no
 
 ## Marcos e acompanhamento (2026/2)
 
-As datas abaixo correspondem aos **períodos de registros observados nas issues**, e **não** a prazos oficiais. O cronograma antigo do README (07, 14, 20 e 21 de outubro) foi retirado para não ser confundido com a situação atual. A situação reflete as issues em **12/11/2026**, não uma certificação de validação dos artefatos.
+Períodos de atividades e entregas registrados nas issues do projeto, atualizados em **12/11/2026**.
 
 | Marco | Período registrado | Conteúdo e entregas | Situação nas issues |
 |---|---|---|---|
 | **Marco 1 — Organização** | 13–20/10/2026 | Formação e definição da Benigno Soluções, escolha da Culture Amp, criação do repositório, Kanban | [Tarefas de organização encerradas](https://github.com/grazidsm/BenignoSolucoes/issues/18) |
 | **Marco 2 — Elicitação e análise** | 13–21/10/2026 | Entrevistas, questionários, observação, análise de requisitos, BPMN e pesquisa do sistema análogo | [Questionários encerrados](https://github.com/grazidsm/BenignoSolucoes/issues/19); [entrevistas/BPMN](https://github.com/grazidsm/BenignoSolucoes/issues/15), [análise](https://github.com/grazidsm/BenignoSolucoes/issues/4), [observação](https://github.com/grazidsm/BenignoSolucoes/issues/5) e [funcionalidades](https://github.com/grazidsm/BenignoSolucoes/issues/8) permanecem abertas |
 | **Marco 3 — Consolidação e controle** | 13/10–11/11/2026 | Síntese consolidada, modelo ER, matriz bidirecional, histórias de usuário, MoSCoW, Planning Poker, controle de custos e riscos, verificação, validação e documentação | [Consolidação](https://github.com/grazidsm/BenignoSolucoes/issues/16) encerrada; [MoSCoW](https://github.com/grazidsm/BenignoSolucoes/issues/7), [validação](https://github.com/grazidsm/BenignoSolucoes/issues/14) e [documentação](https://github.com/grazidsm/BenignoSolucoes/issues/25) abertas |
-| **Marco 4 — Especificação e protótipo** | 04–11/11/2026 | Documento de Visão, diagrama de casos de uso, descrições de casos de uso essenciais, ERS/IEEE 830 ou EOR e protótipos no Figma | [Cinco issues do Marco 4](https://github.com/grazidsm/BenignoSolucoes/issues?q=is%3Aissue+%22Marco+04%22) encerradas; revisar versões e comprovação dos entregáveis |
-
-**Próximos pontos de conferência:** importar os arquivos que ainda estão apenas no Drive, revisar eventuais versões mais recentes dos PDFs/DOCX, verificar as permissões da pasta compartilhada e confirmar as datas de entrega com o cronograma da disciplina.
+| **Marco 4 — Especificação e protótipo** | 04–11/11/2026 | Documento de Visão, diagrama de casos de uso, descrições de casos de uso essenciais, ERS/IEEE 830 ou EOR e protótipos no Figma | [Cinco issues do Marco 4](https://github.com/grazidsm/BenignoSolucoes/issues?q=is%3Aissue+%22Marco+04%22) encerradas |
 
 ## Equipe
 
